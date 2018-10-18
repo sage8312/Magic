@@ -1,4 +1,4 @@
-# Magic
+# Magic 
 Auto**magic**ally working C++ Coroutine: [Documentation](https://github.com/luncliff/Magic/wiki)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ihhn5vx1jfp3hnqn?svg=true)](https://ci.appveyor.com/project/luncliff/magic) [![Build Status](https://travis-ci.org/luncliff/Magic.svg?branch=master)](https://travis-ci.org/luncliff/Magic) [![Build Status](https://dev.azure.com/luncliff/personal/_apis/build/status/luncliff.Magic)](https://dev.azure.com/luncliff/personal/_build/latest?definitionId=7)
